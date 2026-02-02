@@ -1,4 +1,5 @@
 # NoChatRestrictions
+# DO NOT USE THIS!! USE NoChatRestrictions2
 A Java agent that removes the chat restrictions in Minecraft.
 
 This is NOT compatible with all of the affected versions (1.16.4 and onwards), it was made for the latest version of Minecraft. Support for older versions may be released in the future.
