@@ -8,3 +8,5 @@ add ```-javaagent:path/to/jar/nochatrestrictions.jar``` to your Minecraft comman
 
 This is completely untested, and may not work at all. It is based off of the similar Minecraft mod made for mod loaders.
 Compatible with Fabric and Forge.
+
+This Java agent targets the Minecraft authentication library, which is kept separate from the base client and is unobfuscated. This way, it should support future versions and doesn't rely on code within Minecraft itself, so it should work with any mods/modloaders.
