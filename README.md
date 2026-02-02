@@ -7,3 +7,4 @@ How to use:
 add ```-javaagent:path/to/jar/nochatrestrictions.jar``` to your Minecraft command line arguments.
 
 This is completely untested, and may not work at all. It is based off of the similar Minecraft mod made for mod loaders.
+Compatible with Fabric and Forge.
